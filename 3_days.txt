@@ -1,2 +1,2 @@
-id : ZNYQN8TN | Expiry Date : 2025-08-18
+id : ZNYQN8TN | expiry date : 2025-08-18
 id : EGNMQR6U | Expiry Date : 2025-08-18
